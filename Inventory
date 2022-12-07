@@ -1,4 +1,4 @@
-server1 ansible_host=3.89.80.250 ansible_user=ubuntu 
-server2 ansible_host=44.192.123.6 ansible_user=ubuntu 
-server3 ansible_host=18.209.210.31 ansible_user=ubuntu 
+server1 ansible_host=3.94.132.117 ansible_user=ubuntu 
+server2 ansible_host=3.94.119.239 ansible_user=ubuntu 
+server3 ansible_host=54.221.44.221 ansible_user=ubuntu 
 local ansible_connection=local
