@@ -17,7 +17,7 @@
                     chdir: "{{ gitdir }}"
                     cmd: "mvn package"
 - name: "setup webserver and deploy WAR"
-  hosts: server2 
+  hosts: server1 
   become: true
   vars:
           gitdir: "/tmp/addressbook-project-1"
