@@ -6,7 +6,7 @@
   tasks:
           - name: "install maven"
             apt:
-                    name: maven
+                  name: maven
           - name: "clone the addressbook project"
             git:
                     repo: 'https://github.com/upshiftnow/addressbook'
